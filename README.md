@@ -8,7 +8,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/yourname/blogbot.git
+git clone https://github.com/Artfal11/blogbot.git
 cd blogbot
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
