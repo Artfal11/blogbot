@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+pydantic
+requests
+python-telegram-bot==13.15
